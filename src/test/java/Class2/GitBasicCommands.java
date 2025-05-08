@@ -12,5 +12,9 @@ public class GitBasicCommands {
      *      git add filename1
      *      git add filename2
      *      git add filename3
+     * 3. add a commit-message
+     *      git commit -m "Enter your commit-message"
+     * 4. to actually send/push committed files/folder into remote-repo
+     *      git push
      */
 }
