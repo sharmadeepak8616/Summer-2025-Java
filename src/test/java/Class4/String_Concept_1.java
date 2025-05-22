@@ -11,6 +11,11 @@ public class String_Concept_1 {
          *      can store one or more characters
          */
 
+        /**
+         * Methods:
+         *      length()
+         */
+
         String str1 = "Hello";
         String str2 = "GoOd evEnINg";
 
