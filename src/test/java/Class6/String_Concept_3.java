@@ -134,7 +134,7 @@ public class String_Concept_3 {
          *      ["UNiTeD K" , "GDom OF GReAt BRiTa" , " And NorTHerN irElaND"]
          *
          *      "UNiTeD KInGDom OF GReAt BRiTaIn And NorTHerN irElaND"
-         *      split -> " "    (this will cute the string into words)
+         *      split -> " "    (this will cut the string into words)
          *      ["UNiTeD" , "KInGDom" , "OF" , "GReAt" , "BRiTaIn" , "And" , "NorTHerN" , "irElaND"]
          *
          *      "UNiTeD KInGDom OF GReAt BRiTaIn And NorTHerN irElaND"
